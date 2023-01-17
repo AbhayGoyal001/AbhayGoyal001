@@ -1,6 +1,6 @@
 
 [![MasterHead](https://cdn.pixabay.com/photo/2019/08/06/22/48/artificial-intelligence-4389372_1280.jpg)](https://AbhayGoyal001.io)<h1 align="center">Hi 👋, I'm Abhay Goyal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://st.depositphotos.com/1037238/4364/v/600/depositphotos_43641985-stock-illustration-computer-programmer-working-on-his.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaygoyal001&label=Profile%20views&color=0e75b6&style=flat" alt="abhaygoyal001" /> </p>
