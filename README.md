@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.pixabay.com/photo/2019/08/06/22/48/artificial-intelligence-4389372_1280.jpg)](https://AbhayGoyal001.io)<h1 align="center">Hi 👋, I'm Abhay Goyal</h1>
 
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 - 🔭 I’m currently working on **Mern Stack**
 
 - 🌱 I’m currently learning **Java , React Native**
